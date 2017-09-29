@@ -1,0 +1,12 @@
+:root {
+--fontSize: 1rem;
+--mainColor: #12345678;
+--highlightColor: hwb(190, 35%, 20%);
+}
+body {
+    background-color: var(--mainColor);
+}
+
+p{
+    font-size: 15px;
+} 
